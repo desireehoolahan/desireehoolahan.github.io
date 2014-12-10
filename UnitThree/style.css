@@ -8,10 +8,9 @@ font-family: arial, helvetica, sans-serif;
 color: white;
 }
 section {
-	background: url(Images/stripes.png) repeat repeat-x top fixed;
+	background: url(Images/stripes.png) repeat repeat-x;
 }
 hr{
-	width: 30px;
+	width: 100px;
 	border: 1px solid #FD6E6E;
-	Margin: 1em 0;
-}
+	}
