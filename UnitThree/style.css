@@ -1,5 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-head {background-repeat: repeat-x;
+head { 
 }
 body { 
 background: url(Images/background.jpg) no-repeat center center fixed;
@@ -7,8 +7,11 @@ font-size: 16px;
 font-family: arial, helvetica, sans-serif;
 color: white;
 }
+section {
+	background: url(Images/stripes.png) repeat repeat-x top fixed;
+}
 hr{
-	width: 100px;
-	position:left;
-	color: #FD6E6E;
+	width: 30px;
+	border: 1px solid #FD6E6E;
+	Margin: 1em 0;
 }
