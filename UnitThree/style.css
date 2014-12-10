@@ -2,7 +2,7 @@
 head { 
 }
 body { 
-	background: url(Images/background.jpg) no-repeat cover url(Images/stripes.png) repeat-x; 
+	background: url(Images/background.jpg) no-repeat center, url(Images/stripes.png) repeat-x; 
 	background-color: ;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
