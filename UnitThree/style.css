@@ -4,7 +4,6 @@ head {
 }
 body { 
 	background: url(Images/background.jpg) no-repeat center center fixed; 
-	background: center;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
 	color: white;
