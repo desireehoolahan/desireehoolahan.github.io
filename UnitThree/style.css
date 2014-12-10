@@ -2,14 +2,12 @@
 head { 
 }
 body { 
-background: url(Images/background.jpg) no-repeat center center fixed;
+background: url(Images/background.jpg) no-repeat center center fixed; background: url(Images/stripes.png) repeat repeat-x;
 font-size: 16px;
 font-family: arial, helvetica, sans-serif;
 color: white;
 }
-section {
-	background: url(Images/stripes.png) repeat repeat-x;
-}
+
 hr{
 	width: 100px;
 	border: 1px solid #FD6E6E;
