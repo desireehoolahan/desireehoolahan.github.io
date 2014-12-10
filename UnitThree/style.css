@@ -1,9 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body { 
-background: url(Images/background.jpg);
-background-size: cover;
+background: url(Images/background.jpg) no-repeat center center fixed;
 background-position: center;
-
 
 }
 hr{
