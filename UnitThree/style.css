@@ -1,25 +1,14 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-head {width:147px;
-	height: 44px;
-	margin-left:113px;
-	margin-top: 202px;
-	margin-right: 260px;
-	margin-bottom:246px;
+head {background-repeat: repeat-x;
 }
 body { 
 background: url(Images/background.jpg) no-repeat center center fixed;
-background-position: center;
 font-size: 16px;
 font-family: arial, helvetica, sans-serif;
 color: white;
-
 }
 hr{
 	width: 100px;
 	position:left;
 	color: #FD6E6E;
 }
-p { 
-font-size: 16px;
- }
-a{}
