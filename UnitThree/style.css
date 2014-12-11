@@ -1,16 +1,12 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-<<<<<<< HEAD
 
 body { 	
 	background: url(Images/background.jpg) no-repeat #525A6A, url(Images/stripes.png) repeat-x; 
 	background-size: auto;
-=======
-head { 
 }
 body { 
-	background: url(Images/background.jpg) no-repeat cover url(Images/stripes.png) repeat-x; 
-	background-color: ;
->>>>>>> parent of d9f089e... Unit Three
+	background: url(Images/background.jpg) no-repeat, url(Images/stripes.png) repeat-x; 
+	background-color: #525A6A;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
 	color: white;
