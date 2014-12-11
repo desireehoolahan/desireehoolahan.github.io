@@ -1,20 +1,22 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+* + * { margin-top:20px; }
 
-#stripes {background: url(Images/stripes.png) repeat-x;
-	background-position: top;
 }
 body { 	
 	background: url(Images/background.jpg) no-repeat #525A6A;
-	background-size: auto;
-	background-color: #525A6A;
+	background-size: cover;
+	color: white;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
-	color: white;
 }
 section {
 	margin: 300px 0 0 200px;
 }
-
+#stripes {
+	background: url(Images/stripes.png) repeat-x;
+	height:13px;
+	width:100%;
+}
 hr{
 	width: 100px;
 	border: 1px solid #FD6E6E;
