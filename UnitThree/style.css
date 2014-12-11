@@ -1,9 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-#heroimage {
-	background: url(Images/background.jpg) no-repeat;
-}
+
 body { 	
-	background-color: #525A6A;
+	background: url(Images/background.jpg) no-repeat;
 	background: url(Images/stripes.png) repeat-x; 
 	background-size: auto, center;
 	font-size: 16px;
