@@ -3,6 +3,7 @@
 
 body { 	
 	background: url('Images/stripes.png') repeat-x, url('Images/background.jpg') no-repeat #525A6A;
+	background-size:auto, cover;
 	color: white;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
