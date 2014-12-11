@@ -4,7 +4,7 @@ head {
 body { 
 	background: url(Images/background.jpg) no-repeat; 
 	background: url(Images/stripes.png) repeat-x; 
-	background-size: auto, cover;
+	background-size: auto, center;
 	background-color: #525A6A;
 	font-size: 16px;
 	font-family: arial, helvetica, sans-serif;
