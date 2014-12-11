@@ -1,7 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 * + * { margin-top:20px; }
 
-}
 body { 	
 	background: url('Images/stripes.png') repeat-x, url('Images/background.jpg') no-repeat #525A6A;
 	color: white;
