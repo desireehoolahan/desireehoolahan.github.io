@@ -1,0 +1,14 @@
+h1{
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	font-size:150 300 300 150;
+}
+h2{
+	font-family: 'Playfair Display SC', serif;
+	font-weight: lighter;
+	font-size: 150 300 300 150;
+}
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
