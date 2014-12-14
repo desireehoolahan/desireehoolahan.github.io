@@ -1,11 +1,13 @@
 * { margin:0; padding:0; box-sizing:border-box;} 
 
 body{
-	font-family: 'Playfair Display SC', serif, #74647a;
+	font-family: 'Playfair Display SC', serif, 'Open Sans Condensed', sans-serif;
+	color: #74647a;
 }
 
 h1{
-	font-family: 'Playfair Display SC', bolder, #7d2b96;
+	font-family: 'Playfair Display SC', serif, bold,; 
+	color: #7d2b96;
 	font-size: 1.62em;
 	
 }
