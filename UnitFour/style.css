@@ -2,23 +2,25 @@
 
 body{
 	font-family: 'Playfair Display SC', serif, 'Open Sans Condensed', sans-serif;
-	font-color: #74647a;
+	color: #74647a;
+	font-size: 20px;
 }
 
 h1{
-	font-family: 'Playfair Display SC', serif, bold,; 
-	font-color: #7d2b96;
-	font-size: 1.62em;
+	font-family: 'Playfair Display SC', serif; 
+	color: #7d2b96;
+	font-weight: bolder;
+	font-size: 3em;
 	
 }
 h2{ 
-	font-family: 'Playfair Display SC', normal,; 
-	font-color: #74647a;
+	font-family: 'Playfair Display SC', serif; 
+	color: #74647a;
 	font-size: 1.62em;
 	}
 p {
-	font-family: 'Open Sans Condensed', sans-serif,;
-	font-color: #74647a;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #74647a;
 	font-size: 20px;
 	
 }
